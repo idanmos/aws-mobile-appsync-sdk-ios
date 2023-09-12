@@ -10,22 +10,6 @@ let package = Package(
             name: "AWSAppSync",
             targets: ["AWSAppSync"]),
     ],
-    dependencies: [
-        .package(
-            name: "AWSiOSSDKV2",
-            url: "https://github.com/aws-amplify/aws-sdk-ios-spm.git",
-            .upToNextMinor(from: "2.32.0")
-        ),
-        .package(
-            name: "AppSyncRealTimeClient",
-            url: "https://github.com/aws-amplify/aws-appsync-realtime-client-ios.git",
-            from: "3.0.0"
-        ),
-        .package(
-            url: "https://github.com/stephencelis/SQLite.swift.git",
-            from: "0.12.0"
-        )
-    ],
     targets: [
         .target(
             name: "AWSAppSync",
