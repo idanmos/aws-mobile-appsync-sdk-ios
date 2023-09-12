@@ -7,16 +7,6 @@
         "state": {
           "branch": null,
           "revision": "3de274c68a3cb60c8aec18b5bc0a8c07860219cd",
-          "version": "3.0.0"
-        }
-      },
-      {
-        "package": "AWSiOSSDKV2",
-        "repositoryURL": "https://github.com/aws-amplify/aws-sdk-ios-spm.git",
-        "state": {
-          "branch": null,
-          "revision": "660739a0b5376d72d196e173ce67ce7881d6ed8f",
-          "version": "2.32.0"
         }
       },
       {
@@ -25,7 +15,6 @@
         "state": {
           "branch": null,
           "revision": "0a9893ec030501a3956bee572d6b4fdd3ae158a1",
-          "version": "0.12.2"
         }
       },
       {
@@ -34,7 +23,6 @@
         "state": {
           "branch": null,
           "revision": "df8d82047f6654d8e4b655d1b1525c64e1059d21",
-          "version": "4.0.4"
         }
       }
     ]
